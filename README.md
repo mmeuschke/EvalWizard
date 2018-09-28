@@ -4,7 +4,7 @@ Framework to generate perceptual task-based user studies for the evaluation of d
 # Reference
 The source code belongs to the following paper: 
 
-  # "Automatic Generation of Web-Based User Studies to Evaluate Depth Perception in Vascular Surface Visualizations."
+  "Automatic Generation of Web-Based User Studies to Evaluate Depth Perception in Vascular Surface Visualizations."
   Monique Meuschke, Noeska. N. Smit, Nils Lichtenberg, Bernhard Preim and Kai Lawonn
   Eurographics Workshop on Visual Computing for Biology and Medicine, in print, 2018.
   
